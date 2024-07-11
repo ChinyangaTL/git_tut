@@ -14,3 +14,4 @@
 // git branch -m <branchToChange> <newBranchName> - rename a branch
 // git merge <branchname> - merge a branch into the current branch
 // git pull origin <branchname> - pull changes from the master branch
+// git remote -v - view remote repositories
