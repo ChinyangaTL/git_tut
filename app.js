@@ -11,3 +11,4 @@
 // git checkout -b <branchname> - create a new branch and switch to it (-b represents new branch)
 // git checkout <branchname> - switch to a branch
 // git branch -D <branchname> - delete a branch
+// git branch -m <branchToChange> <newBranchName> - rename a branch
