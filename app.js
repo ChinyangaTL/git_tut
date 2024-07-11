@@ -6,3 +6,4 @@
 // git log - view recent commits
 // git log --online - view recent commits in a compact format
 // git reset --soft HEAD^ - undo the last commit
+// git commit --amend -m "<message>" - amend the last commit message
