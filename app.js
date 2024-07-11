@@ -12,3 +12,4 @@
 // git checkout <branchname> - switch to a branch
 // git branch -D <branchname> - delete a branch
 // git branch -m <branchToChange> <newBranchName> - rename a branch
+// git merge <branchname> - merge a branch into the current branch
